@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav-font-family{
+    font-family: 'Roboto', sans-serif;
+}
+.header-bg{
+    background-color: #FFFBF0;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 12px;
+    cursor: pointer;
+}
+
+.head-font-family{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+.top-head-color{
+    color: #FABE4C;
+}
+.bottom-head-color{
+    color: #363958;
+}
+.fas{
+    font-size:22px;
+}

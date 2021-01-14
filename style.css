@@ -55,8 +55,6 @@ body{
     width: 300px;
 }
 .img-body{
-    height: 350px;
-    width: 330px;
     background-color: rgb(231, 226, 226);
     border-radius: 6px;
     margin-bottom: 20px;
@@ -72,5 +70,4 @@ body{
 .side-img{
     width: 400px;
     margin-top: 80px;
-    margin-left: 80px;
 }

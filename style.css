@@ -2,9 +2,13 @@ body{
     margin: 0;
     padding: 0;
 }
+/* This is for navbar font */
 .nav-font-family{
     font-family: 'Roboto', sans-serif;
+    color:black;
 }
+
+/* This is the main logo in the top */
 .logo-size{
     height: 39.27px;
     width: 291.11px;
@@ -17,11 +21,11 @@ body{
     background-color: #FFFBF0;
 }
 .buy-now-button{
-    background-color:#367a54;
+    background-color:#9fb83f;
     color: #fff;
     border: none;
     border-radius: 8px;
-    padding: 4px 8px;
+    padding: 8px 12px;
     cursor: pointer;
 }
 
@@ -50,7 +54,7 @@ body{
 .img-body{
     height: 350px;
     width: 330px;
-    background-color: rgb(223, 217, 217);
+    background-color: rgb(231, 226, 226);
     border-radius: 6px;
     margin-bottom: 20px;
 }
@@ -63,7 +67,7 @@ body{
     font-weight: 700;
 }
 .side-img{
-    height: 400px;
-    width: 600px;
+    width: 400px;
     margin-top: 80px;
+    margin-left: 80px;
 }

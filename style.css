@@ -11,31 +11,60 @@ body{
 }
 .img-size{
     width: 440.72px;
-    height: 648.71px;
+    height: 450.71px;
 }
 .header-bg{
     background-color: #FFFBF0;
-    /* background-color: #cea73e; */
+    background-color: #cea73e;
 }
 .buy-now-button{
-    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    background-color:#367a54;
     color: #fff;
     border: none;
     border-radius: 8px;
-    padding: 9px 12px;
+    padding: 4px 8px;
     cursor: pointer;
 }
 
-.head-font-family{
+.head-font{
     font-family: 'Bebas Neue', cursive;
-    font-size: 80px;
+    font-size: 60px;
+}
+
+.img-head-font{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
 }
 .top-head-color{
     color: #FABE4C;
 }
-.bottom-head-color{
+.dark-head-color{
     color: #363958;
 }
 .fas{
-    font-size:22px;
+    font-size:15px;
 }
+.img-length{
+    height: 320px;
+    width: 300px;
+}
+.img-body{
+    height: 350px;
+    width: 330px;
+    background-color: rgb(223, 217, 217);
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+.cart-img-size{
+    height: 130px;
+    width: 130px;
+}
+.cart-header{
+    font-size:20px;
+    font-weight: 700;
+}
+.side-img{
+    height: 100%;
+    width: 100%;
+}
+

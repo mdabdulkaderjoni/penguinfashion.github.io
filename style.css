@@ -5,8 +5,17 @@ body{
 .nav-font-family{
     font-family: 'Roboto', sans-serif;
 }
+.logo-size{
+    height: 39.27px;
+    width: 291.11px;
+}
+.img-size{
+    width: 440.72px;
+    height: 648.71px;
+}
 .header-bg{
     background-color: #FFFBF0;
+    /* background-color: #cea73e; */
 }
 .buy-now-button{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);

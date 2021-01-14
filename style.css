@@ -28,6 +28,9 @@ body{
     padding: 8px 12px;
     cursor: pointer;
 }
+.price-color{
+    color: #fabf4f;
+}
 
 .head-font{
     font-family: 'Bebas Neue', cursive;
